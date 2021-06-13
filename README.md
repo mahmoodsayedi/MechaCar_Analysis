@@ -256,4 +256,3 @@ A **multiple linear regression** would be used to determine the factors that hav
 
 
 
-##### MechaCar Analysis - AutosRUs Completed by Emmanuel Martinez

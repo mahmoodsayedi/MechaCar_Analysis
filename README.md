@@ -26,7 +26,7 @@ The `MechaCar_mpg.csv` dataset contains mpg test results for 50 prototype MechaC
 
 **Statistical Summary:** 
 
-![d1](https://github.com/mahmoodsayedi/MechaCar_Statistical_Analysis/blob/main/Resources/Images/linear_regression_d1.png)
+![d1](https://github.com/mahmoodsayedi/MechaCar_Analysis/blob/main/Resources/Images/linear_regression.png)
 
 From the above output we can see that:
 

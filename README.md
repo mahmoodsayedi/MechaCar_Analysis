@@ -40,7 +40,7 @@ the **vehicle weight**, **spoiler angle**, and **All Wheel Drive** (AWD) have p-
 
 If we remove the less impactful independent variables (vehicle weight, spoiler angle, and All Wheel Drive), the predictability does decrease, but not drastically: the r-squared value falls from 0.7149 to 0.674. 
 
-![d1](https://github.com/mahmoodsayedi/MechaCar_Statistical_Analysis/blob/main/Resources/Images/new_linear_regression_d1.png)
+![d1](https://github.com/mahmoodsayedi/MechaCar_Analysis/blob/main/Resources/Images/linear_regression_d1.png)
 
 
 # Deliverable 2:  
@@ -59,13 +59,12 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 Your `total_summary` dataframe should look like this:
 
-![d1](https://github.com/mahmoodsayedi/MechaCar_Statistical_Analysis/blob/main/Resources/Images/data-15-total-summary-data-mean-median-variance-sd.png)
+![d1](https://github.com/mahmoodsayedi/MechaCar_Analysis/blob/main/Resources/Images/data-15-total-summary-data-mean-median-variance-sd.png)
 
 4. Write an RScript that creates a `lot_summary` dataframe using the `group_by()` and the `summarize()` functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
 Your lot_summary dataframe should look like this:
 
-![d1](https://github.com/mahmoodsayedi/MechaCar_Statistical_Analysis/blob/main/Resources/Images/data-15-manufacturing-lot.png)
-
+![d1](https://github.com/mahmoodsayedi/MechaCar_Analysis/blob/main/Resources/Images/data-15-manufacturing-lot.png)
 5. Save your `MechaCarChallenge.RScript` file to your GitHub repository.
 
 > To Deliver. 
@@ -81,11 +80,11 @@ The Suspension Coil dataset provided for the MechaCar contains the results of te
 
 First looking at all manufacturing lots:
 
-![d2](https://github.com/mahmoodsayedi/MechaCar_Statistical_Analysis/blob/main/Resources/Images/total_lot_summary.png)
+![d2](https://github.com/mahmoodsayedi/MechaCar_Analysis/blob/main/Resources/Images/total_lot_summary.png)
 
 Diving a little deeper into each of the 3 lots:
 
-![d2](https://github.com/mahmoodsayedi/MechaCar_Statistical_Analysis/blob/main/Resources/Images/manufactoring_lot_summary.png)
+![d2](https://github.com/mahmoodsayedi/MechaCar_Analysis/blob/main/Resources/Images/manufactoring_lot_summary.png)
 
 With the understanding that the design specifications for the MechaCar suspension coils mandate that <mark style="background-color: Yellow">**the variance of the suspension coils cannot exceed 100 pounds per square inch (PSI)**</mark> . 
 
